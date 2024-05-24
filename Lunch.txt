@@ -1,0 +1,5 @@
+S.no     Items			Price
+----------------------------------------
+ 1.      Naan Roti		Rs. 25
+ 2.	 Veg Biriyani		Rs. 80
+ 3.	 Chicken Biryani	Rs. 120
